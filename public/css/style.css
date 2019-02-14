@@ -1,0 +1,15 @@
+.bs-table{
+    margin: 0;
+}
+
+.bs-table thead tr th {
+    color: #fff;
+    background-color:rgb(212, 177, 18);
+}
+.bs-table .bs-price{
+
+    text-align: right;
+}
+.bs-table .bs-center{
+    text-align: center;
+}
